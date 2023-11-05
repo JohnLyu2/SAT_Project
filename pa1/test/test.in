@@ -1,0 +1,15 @@
+1 * VAr ; VAr: 1, VAr: 0
+1 * VAr ; VAr: 1
+1 * VAr;VAr : 0
+1 * VAr + 0
+1 * VAr + 0 ; VAr 1
+1 *(VAr + 0 );
+A + B * -0 * (1 + -CD); A : 1, B : 0, CD : 1
+A + B * -0 * (1 + -CD); A : 0, B : 0, CD : 1
+   Ur * c; Ur:1, c:1
+ Ur * c * (1+0)) ; Ur:1, c:1
+ Ur * c * (1+0) ; Ur:1, c:1
+ (1 * (a1 +VAr)) ; VAr: 1, a1: 0, VAr: 0
+ (1 * (a1 +VAr)) !; VAr: 1, a1: 0, VAr: 1
+1*0+-1;
+ (1 * (0 +1)) ; 
