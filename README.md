@@ -1,4 +1,4 @@
-This is a Programming Project that Prof. [Vijay Ganesh](https://vganesh1.github.io/) and I designed for the course Methods and Tools for *Software Engineering* (ECE650 Fall2022, UWaterloo). The project asks the students to build SAT solver in C++. The project consists of three parts:
+This is a Programming Project that Prof. [Vijay Ganesh](https://vganesh1.github.io/) and I designed for the course Methods and Tools for *Software Engineering* (ECE650 Fall2022, UWaterloo). The project asks the students to build a SAT solver in C++. The project consists of three parts:
 
 ## Programming Assignment 1
 (1) Build a parser that parses Boolean formulas.
